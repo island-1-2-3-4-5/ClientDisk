@@ -1,2 +1,0 @@
-# ClientDisk
-YandexDisk API client
